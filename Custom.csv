@@ -1,0 +1,9 @@
+﻿Action
+addWaitSeconds
+clickLink
+populateTextField
+pressEnterKey
+startConditionalExitsCheck
+endConditionalCheck
+DoubleClick
+selectDropDownByValue
